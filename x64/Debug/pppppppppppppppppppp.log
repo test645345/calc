@@ -1,0 +1,9 @@
+﻿  funcs.cpp
+C:\pppppppppppppppppppp\funcs.cpp(54,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\pppppppppppppppppppp\funcs.cpp(56,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\pppppppppppppppppppp\funcs.cpp(284,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\pppppppppppppppppppp\funcs.cpp(293,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\pppppppppppppppppppp\funcs.cpp(308,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\pppppppppppppppppppp\funcs.cpp(700,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\pppppppppppppppppppp\funcs.cpp(769,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  pppppppppppppppppppp.vcxproj -> C:\pppppppppppppppppppp\x64\Debug\pppppppppppppppppppp.exe
